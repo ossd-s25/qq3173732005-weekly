@@ -4,9 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## This is my blog for the class Open Source Software Development at NYU
+
+**From**: New Jersey
+
+**Date of Birth**: February 18, 2002
+
+**Interests**: Software development, bioinformatics
+
+**Hobbies**: Birding, walking
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love cats but I've never had one:\(
 
