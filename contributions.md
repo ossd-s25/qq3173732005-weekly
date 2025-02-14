@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 2   | https://github.com/joannakl/ossd/issues/85#issuecomment-2629877661    | course website    |   I asked about the updated tentative course schedule.    |
-|     |     |     |      |
-|     |     |     |      |
+|  Feb 12   |   https://github.com/joannakl/ossd/pull/138  |  course website   |   I removed the reference to the tentative course schedule.   |
+|  Feb 12   |   https://github.com/ossd-s25/i-did-that-extension/issues/1  |  I Did That extension   |   I asked if the repo could be made public.   |
