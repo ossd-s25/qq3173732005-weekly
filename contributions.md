@@ -25,4 +25,5 @@ Replace the first row with your own contribution.
 | Feb 2   | https://github.com/joannakl/ossd/issues/85#issuecomment-2629877661    | course website    |   I asked about the updated tentative course schedule.    |
 |  Feb 12   |   https://github.com/joannakl/ossd/pull/138  |  course website   |   I removed the reference to the tentative course schedule.   |
 |  Feb 12   |   https://github.com/ossd-s25/i-did-that-extension/issues/1  |  I Did That extension   |   I asked if the repo could be made public.   |
-|  Feb 23   |   hhttps://en.wikipedia.org/w/index.php?title=Drarry&diff=prev&oldid=1277325530  |  Wikipedia   |   I updated a number, changed the layout to be easier to follow, and made some grammar corrections.   |
+|  Feb 23   |   https://en.wikipedia.org/w/index.php?title=Drarry&diff=prev&oldid=1277325530  |  Wikipedia   |   I updated a number, changed the layout to be easier to follow, and made some grammar corrections.   |
+|  Mar 2   |   https://www.inaturalist.org/observations/263678655  |  iNaturalist   |   I added an identification to an observation.   |
