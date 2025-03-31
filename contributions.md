@@ -27,3 +27,5 @@ Replace the first row with your own contribution.
 |  Feb 12   |   https://github.com/ossd-s25/i-did-that-extension/issues/1  |  I Did That extension   |   I asked if the repo could be made public.   |
 |  Feb 23   |   https://en.wikipedia.org/w/index.php?title=Drarry&diff=prev&oldid=1277325530  |  Wikipedia   |   I updated a number, changed the layout to be easier to follow, and made some grammar corrections.   |
 |  Mar 2   |   https://www.inaturalist.org/observations/263678655  |  iNaturalist   |   I added an identification to an observation.   |
+|  Mar 28   |   https://github.com/openfoodfacts/smooth-app/issues/6119#issuecomment-2762951663  |  OpenFoodFacts   |   I asked to be assigned to an issue.
+|  Mar 31   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I opened a pull request for the issue I claimed.
