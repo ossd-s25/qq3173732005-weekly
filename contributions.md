@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 |  Mar 2   |   https://www.inaturalist.org/observations/263678655  |  iNaturalist   |   I added an identification to an observation.   |
 |  Mar 28   |   https://github.com/openfoodfacts/smooth-app/issues/6119#issuecomment-2762951663  |  OpenFoodFacts   |   I asked to be assigned to an issue.
 |  Mar 31   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I opened a pull request for the issue I claimed.
+|  Apr 6   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I made the requested changes on my PR.
