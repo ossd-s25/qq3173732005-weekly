@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 |  Mar 28   |   https://github.com/openfoodfacts/smooth-app/issues/6119#issuecomment-2762951663  |  OpenFoodFacts   |   I asked to be assigned to an issue.
 |  Mar 31   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I opened a pull request for the issue I claimed.
 |  Apr 6   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I made the requested changes on my PR.
+|  Apr 13   |   https://github.com/openfoodfacts/smooth-app/issues/6274#issuecomment-2800129623  |  OpenFoodFacts   |   I expressed interest in working on an issue and asked for some clarification.
