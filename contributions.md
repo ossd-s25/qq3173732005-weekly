@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 |  Apr 6   |   https://github.com/openfoodfacts/smooth-app/pull/6499  |  OpenFoodFacts   |   I made the requested changes on my PR.
 |  Apr 13   |   https://github.com/openfoodfacts/smooth-app/issues/6274#issuecomment-2800129623  |  OpenFoodFacts   |   I expressed interest in working on an issue and asked for some clarification.
 |  Apr 14   |   https://github.com/openfoodfacts/smooth-app/pull/6499#issuecomment-2802030710  |  OpenFoodFacts   |   I made some suggestions for how I might edit my pull request to address a contributor's concerns.
+|  Apr 21   |   https://github.com/openfoodfacts/smooth-app/pull/6499#issuecomment-2819012905  |  OpenFoodFacts   |   I expressed my intention to implement the features discussed with the core contributors, and asked if there was a different issue that corresponded to these features.
